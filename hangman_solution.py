@@ -280,6 +280,7 @@ def show_possible_matches(my_word):
 
 
 def hangman_with_hints(secret_word):
+    
     '''
     secret_word: string, the secret word to guess.
     
